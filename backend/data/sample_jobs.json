@@ -1,0 +1,364 @@
+[
+  {
+    "id": "job-001",
+    "title": "Machine Learning Engineer",
+    "company": "Stockbit",
+    "location": "Jakarta, Indonesia",
+    "description": "Build and deploy ML models for stock recommendation, fraud detection, and risk scoring. Work with large-scale transaction data and real-time streaming systems.",
+    "requirements": [
+      "3+ years ML engineering experience",
+      "Strong Python and SQL",
+      "Experience with PyTorch or TensorFlow",
+      "Production deployment experience",
+      "Knowledge of fintech domain a plus"
+    ],
+    "skills_required": ["Python", "PyTorch", "TensorFlow", "SQL", "Docker", "AWS", "Time Series", "Fraud Detection"],
+    "experience_years": 3,
+    "salary_range": "IDR 25-40M",
+    "url": "https://stockbit.com/careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-002",
+    "title": "Computer Vision Engineer",
+    "company": "Bibit",
+    "location": "Jakarta, Indonesia",
+    "description": "Develop computer vision systems for KYC document verification, face matching, and fraud detection in identity verification pipelines.",
+    "requirements": [
+      "M.S. in CS or related field",
+      "Computer vision expertise (object detection, OCR, face recognition)",
+      "PyTorch experience",
+      "Production ML pipeline experience"
+    ],
+    "skills_required": ["Python", "PyTorch", "OpenCV", "OCR", "Face Recognition", "FastAPI", "Docker"],
+    "experience_years": 2,
+    "salary_range": "IDR 20-35M",
+    "url": "https://bibit.id/careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-003",
+    "title": "AI Engineer (LLM Applications)",
+    "company": "Combiphar",
+    "location": "Jakarta, Indonesia",
+    "description": "Build LLM-powered tools for healthcare workflows: medical document Q&A, automated research summarization, drug interaction analysis. Focus on retrieval-augmented generation and agent systems.",
+    "requirements": [
+      "Experience with LLM APIs (OpenAI, Gemini, Anthropic)",
+      "RAG pipeline experience (vector DBs, embeddings)",
+      "Python web development",
+      "Healthcare domain interest"
+    ],
+    "skills_required": ["Python", "LangChain", "ChromaDB", "Google Gemini API", "FastAPI", "RAG"],
+    "experience_years": 2,
+    "salary_range": "IDR 18-30M",
+    "url": "https://combiphar.com/careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-004",
+    "title": "Senior ML Engineer",
+    "company": "Grab",
+    "location": "Singapore",
+    "description": "Lead ML systems for ride-hailing, food delivery, and financial services. Work across recommendation systems, fraud detection, and demand forecasting at scale.",
+    "requirements": [
+      "5+ years ML engineering",
+      "Production ML at scale",
+      "Strong system design",
+      "AWS or GCP expertise"
+    ],
+    "skills_required": ["Python", "PyTorch", "TensorFlow", "Spark", "AWS", "Kubernetes", "Recommendation Systems"],
+    "experience_years": 5,
+    "salary_range": "SGD 8000-14000",
+    "url": "https://grab.careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-005",
+    "title": "Data Scientist (Marketing)",
+    "company": "Changi Airport Group",
+    "location": "Singapore",
+    "description": "Apply ML, AI, Graph and GenAI for retail innovation, customer intelligence, and pricing strategy. Work with marketplace data and large-scale customer behavior datasets.",
+    "requirements": [
+      "M.S. or Ph.D. in technical field",
+      "4 years experience in relevant role",
+      "AWS Sagemaker, Vertex AI, or Azure ML",
+      "Experience with Jupyter, LLMs, PyTorch, TensorFlow",
+      "Track record of large-scale real-time deployment"
+    ],
+    "skills_required": ["Python", "PyTorch", "TensorFlow", "AWS Sagemaker", "Vertex AI", "Predictive Analytics", "GenAI", "LLM"],
+    "experience_years": 4,
+    "salary_range": "SGD 7000-12000",
+    "url": "https://jobs.changiairport.com",
+    "source": "manual"
+  },
+  {
+    "id": "job-006",
+    "title": "AI Engineer",
+    "company": "Sea Group (Shopee)",
+    "location": "Singapore",
+    "description": "Build AI products for e-commerce: search ranking, recommendation, image search, and fraud detection. Multi-modal models (text + image) and large language models in production.",
+    "requirements": [
+      "Strong CS fundamentals",
+      "Production ML experience",
+      "Deep learning frameworks proficiency",
+      "Vector search / embeddings"
+    ],
+    "skills_required": ["Python", "PyTorch", "Vector Search", "Embeddings", "Recommendation Systems", "FastAPI"],
+    "experience_years": 3,
+    "salary_range": "SGD 7000-13000",
+    "url": "https://careers.sea.com",
+    "source": "manual"
+  },
+  {
+    "id": "job-007",
+    "title": "ML Engineer (Computer Vision)",
+    "company": "Tokopedia",
+    "location": "Jakarta, Indonesia (Remote OK)",
+    "description": "Computer vision for product image search, automated product categorization, and visual similarity matching. Build models that work on hundreds of millions of products.",
+    "requirements": [
+      "Computer vision expertise",
+      "Production ML deployment",
+      "Strong Python and PyTorch",
+      "Vector database experience"
+    ],
+    "skills_required": ["Python", "PyTorch", "OpenCV", "Vector Search", "Embeddings", "Docker"],
+    "experience_years": 3,
+    "salary_range": "IDR 30-50M",
+    "url": "https://tokopedia.com/careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-008",
+    "title": "AI Research Engineer",
+    "company": "Hugging Face",
+    "location": "Remote (Global)",
+    "description": "Research and engineer open-source ML tools used by millions of developers. Contribute to Transformers library, model optimization, and LLM serving.",
+    "requirements": [
+      "Open source contributions",
+      "Strong PyTorch / Transformers expertise",
+      "Published research or engineering blog posts",
+      "Strong written English communication"
+    ],
+    "skills_required": ["Python", "PyTorch", "Hugging Face Transformers", "LLM", "Open Source"],
+    "experience_years": 3,
+    "salary_range": "USD 80k-150k",
+    "url": "https://huggingface.co/jobs",
+    "source": "manual"
+  },
+  {
+    "id": "job-009",
+    "title": "ML Engineer (Document AI)",
+    "company": "Nanonets",
+    "location": "Remote (Asia Pacific)",
+    "description": "Build production OCR and document understanding systems for invoices, receipts, and forms. Work on layout understanding, multilingual extraction, and confidence calibration.",
+    "requirements": [
+      "OCR / document AI experience",
+      "Computer vision + NLP",
+      "Production system deployment",
+      "Multilingual document handling"
+    ],
+    "skills_required": ["Python", "PyTorch", "PaddleOCR", "OCR", "FastAPI", "Docker", "Multilingual NLP"],
+    "experience_years": 2,
+    "salary_range": "USD 50k-90k",
+    "url": "https://nanonets.com/careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-010",
+    "title": "AI Engineer (LLM Agents)",
+    "company": "Replit",
+    "location": "Remote (Global)",
+    "description": "Build autonomous AI agents that help developers code. Multi-tool reasoning, code understanding, and conversational interfaces. LangGraph, function calling, and agent evaluation.",
+    "requirements": [
+      "LLM application experience",
+      "Agent frameworks (LangGraph, AutoGen)",
+      "Strong Python",
+      "Prompt engineering depth"
+    ],
+    "skills_required": ["Python", "LangGraph", "LangChain", "LLM", "OpenAI API", "Anthropic API", "Agent Systems"],
+    "experience_years": 2,
+    "salary_range": "USD 100k-160k",
+    "url": "https://replit.com/careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-011",
+    "title": "Junior ML Engineer",
+    "company": "Kalibrr",
+    "location": "Jakarta, Indonesia (Hybrid)",
+    "description": "Entry-level role: contribute to ML systems for job matching, candidate screening, and resume parsing. Mentorship provided.",
+    "requirements": [
+      "1-2 years ML experience or strong portfolio",
+      "Python proficiency",
+      "ML fundamentals (sklearn, basic deep learning)",
+      "Eagerness to learn"
+    ],
+    "skills_required": ["Python", "scikit-learn", "PyTorch", "FastAPI", "SQL"],
+    "experience_years": 1,
+    "salary_range": "IDR 12-20M",
+    "url": "https://kalibrr.com/careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-012",
+    "title": "Computer Vision Engineer (Edge AI)",
+    "company": "Edge Impulse",
+    "location": "Remote (Global)",
+    "description": "Optimize ML models for embedded devices: ESP32, Cortex-M, mobile NPUs. Quantization, pruning, knowledge distillation. Real-world deployments in industrial IoT.",
+    "requirements": [
+      "Model optimization (TFLite, ONNX, quantization)",
+      "Embedded ML or mobile ML experience",
+      "C/C++ for embedded",
+      "Computer vision background"
+    ],
+    "skills_required": ["Python", "TensorFlow", "TFLite", "ONNX", "Quantization", "Embedded Systems", "C++"],
+    "experience_years": 3,
+    "salary_range": "USD 80k-130k",
+    "url": "https://edgeimpulse.com/careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-013",
+    "title": "Senior Data Scientist (Fraud)",
+    "company": "Akulaku",
+    "location": "Jakarta, Indonesia",
+    "description": "Build fraud detection systems for digital lending. Time-series analysis, graph ML for fraud rings, real-time scoring. Work with billions of transaction records.",
+    "requirements": [
+      "5+ years ML / Data Science",
+      "Fraud detection or risk modeling experience",
+      "Time-series and graph ML",
+      "SQL at scale"
+    ],
+    "skills_required": ["Python", "SQL", "Time Series", "Graph ML", "XGBoost", "Spark", "Fraud Detection"],
+    "experience_years": 5,
+    "salary_range": "IDR 40-70M",
+    "url": "https://akulaku.com/careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-014",
+    "title": "ML Engineer (Search & Recommendation)",
+    "company": "Lazada",
+    "location": "Singapore (Hybrid)",
+    "description": "Build search ranking and product recommendation models for SEA's largest e-commerce. Vector search, learning-to-rank, A/B testing infrastructure.",
+    "requirements": [
+      "Recommendation systems experience",
+      "Search ranking models",
+      "A/B testing methodology",
+      "Production ML at scale"
+    ],
+    "skills_required": ["Python", "PyTorch", "Vector Search", "Recommendation Systems", "A/B Testing", "Spark"],
+    "experience_years": 4,
+    "salary_range": "SGD 7000-12000",
+    "url": "https://lazada.com/careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-015",
+    "title": "AI Software Engineer",
+    "company": "Anthropic",
+    "location": "Remote (Asia Pacific friendly)",
+    "description": "Build tooling, infrastructure, and applications around Claude. Strong engineering culture, focus on safety and helpfulness.",
+    "requirements": [
+      "5+ years software engineering",
+      "LLM application experience",
+      "Strong engineering judgment",
+      "Written communication excellence"
+    ],
+    "skills_required": ["Python", "TypeScript", "LLM", "Anthropic API", "FastAPI", "Next.js"],
+    "experience_years": 5,
+    "salary_range": "USD 150k-250k",
+    "url": "https://anthropic.com/careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-016",
+    "title": "ML Engineer",
+    "company": "Carro",
+    "location": "Singapore",
+    "description": "ML systems for used-car marketplace: image classification (damage detection), price prediction, demand forecasting. Mix of CV and tabular ML.",
+    "requirements": [
+      "ML engineering experience",
+      "Computer vision + tabular ML",
+      "Production deployment",
+      "SEA market understanding"
+    ],
+    "skills_required": ["Python", "PyTorch", "Computer Vision", "scikit-learn", "FastAPI", "Docker"],
+    "experience_years": 3,
+    "salary_range": "SGD 6000-10000",
+    "url": "https://carro.sg/careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-017",
+    "title": "AI Engineer (Mobile)",
+    "company": "Halodoc",
+    "location": "Jakarta, Indonesia (Hybrid)",
+    "description": "Build on-device AI for healthcare mobile app: symptom checker, prescription OCR, medical image triage. Optimize for low-end Android devices common in Indonesia.",
+    "requirements": [
+      "Mobile ML deployment (TFLite, Core ML)",
+      "Computer vision or NLP",
+      "Flutter or native Android experience",
+      "Healthcare interest"
+    ],
+    "skills_required": ["Python", "PyTorch", "TFLite", "Flutter", "OCR", "Mobile ML"],
+    "experience_years": 2,
+    "salary_range": "IDR 25-40M",
+    "url": "https://halodoc.com/careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-018",
+    "title": "Founding ML Engineer",
+    "company": "Stealth Startup (YC W26)",
+    "location": "Remote (Global)",
+    "description": "Early engineer at AI-first startup. Wear many hats: model training, deployment, full-stack web, product thinking. High ownership, equity-heavy comp.",
+    "requirements": [
+      "Generalist mindset",
+      "Shipped ML products end-to-end",
+      "Comfortable with ambiguity",
+      "Strong written communication"
+    ],
+    "skills_required": ["Python", "PyTorch", "FastAPI", "Next.js", "Docker", "LLM"],
+    "experience_years": 3,
+    "salary_range": "USD 120k-180k + equity",
+    "url": "https://workatastartup.com",
+    "source": "manual"
+  },
+  {
+    "id": "job-019",
+    "title": "Data Scientist (Customer Intelligence)",
+    "company": "Maybank",
+    "location": "Kuala Lumpur, Malaysia",
+    "description": "Customer segmentation, churn prediction, product recommendation for banking customers. Predictive analytics with strict regulatory and explainability requirements.",
+    "requirements": [
+      "Banking or financial services experience",
+      "Predictive modeling (churn, propensity)",
+      "Model explainability (SHAP, LIME)",
+      "SQL and Python proficiency"
+    ],
+    "skills_required": ["Python", "SQL", "scikit-learn", "XGBoost", "SHAP", "Predictive Analytics"],
+    "experience_years": 4,
+    "salary_range": "MYR 8000-14000",
+    "url": "https://maybank.com.my/careers",
+    "source": "manual"
+  },
+  {
+    "id": "job-020",
+    "title": "Open Source Maintainer (Paid)",
+    "company": "Modal Labs",
+    "location": "Remote (Global)",
+    "description": "Help maintain and grow open-source ML infrastructure project. Mix of code, docs, community support, and developer relations.",
+    "requirements": [
+      "Active GitHub presence",
+      "Strong Python infrastructure background",
+      "Community engagement skill",
+      "Technical writing"
+    ],
+    "skills_required": ["Python", "Open Source", "Docker", "Kubernetes", "Technical Writing"],
+    "experience_years": 3,
+    "salary_range": "USD 100k-150k",
+    "url": "https://modal.com/careers",
+    "source": "manual"
+  }
+]

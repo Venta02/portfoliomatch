@@ -1,0 +1,124 @@
+# ============ Python ============
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.conda/
+
+# ============ Environment Variables ============
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+*.env
+!.env.example
+
+# ============ Node / Next.js ============
+node_modules/
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+next-env.d.ts
+.pnpm-store/
+.pnpm-debug.log*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm/
+.yarn/
+.yarn-integrity
+
+# Vercel
+.vercel
+
+# ============ ML / AI ============
+*.h5
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.bin
+*.safetensors
+models/
+checkpoints/
+.cache/
+huggingface/
+sentence-transformers/
+
+# ============ IDE ============
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+# ============ Logs & Coverage ============
+logs/
+*.log
+coverage/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+htmlcov/
+.tox/
+.nox/
+
+# ============ Jupyter ============
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# ============ Docker ============
+.docker/
+docker-compose.override.yml
+
+# ============ OS specific ============
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# ============ Project specific ============
+backend/data/cache/
+backend/.env
+frontend/.env.local
+frontend/public/uploads/
+*.tmp
+*.bak
