@@ -14,9 +14,7 @@
 
 ## Demo Video
 
-[![Watch the demo]](docs/demo.mp4)
-
-> Click the image above or [watch the demo video here](docs/demo.mp4).
+> Demo walkthrough available at [`docs/demo.mp4`](docs/demo.mp4). Inline player will be added after first push.
 
 ---
 
@@ -53,7 +51,7 @@ Most job matching tools rely on self-reported skills from resumes, which are oft
 
 ## Architecture / 系統架構
 
-![System Architecture](docs/architecture.png)
+![System Architecture](docs/architecture.jpg)
 
 The system consists of three main layers / 系統包含三個主要層級：
 
