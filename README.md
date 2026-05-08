@@ -14,7 +14,7 @@
 
 ## Demo Video
 
-> Demo walkthrough available at [`docs/demo.mp4`](docs/demo.mp4). Inline player will be added after first push.
+https://github.com/user-attachments/assets/4dfed0c4-2710-4e8d-8058-9ae65f38759e
 
 ---
 
